@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "pedraPapelTesoura": {
+      "commandName": "Project",
+      "sqlDebugging": false,
+      "nativeDebugging": false
+    }
+  }
+}
